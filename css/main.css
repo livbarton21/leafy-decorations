@@ -6,6 +6,9 @@ html {
 color: #fff;
 background-image: url:("../images/leaf-bg.svg");
 background-color: #588477;
+background-size: 64px;
+border-top: 3px solid #2d5a4d;
+border-bottom: 3px solid #2d5a4d;
 }
 
 .logo {
