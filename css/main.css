@@ -3,7 +3,9 @@ html {
 }
 
 .masthead {
-
+color: #fff;
+background-image: url:("../images/leaf-bg.svg");
+background-color: #588477;
 }
 
 .logo {
