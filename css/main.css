@@ -28,6 +28,9 @@ border-bottom: 3px solid #2d5a4d;
 }
 
 .nav a:hover {
+  color: #145b1d;
+  background-color: #fff;
+  background-image: url("../images/leaf-icon.svg");
 
 }
 
