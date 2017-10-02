@@ -63,8 +63,8 @@ border-bottom: 3px solid #2d5a4d;
     background-position: 1em 11em;
     padding-top: 17em;
   }
-}
 
+}
 
 @media only screen and (min-width: 60em) {
 
@@ -74,6 +74,23 @@ border-bottom: 3px solid #2d5a4d;
 
   .nav {
     text-align: right;
+  }
+
+  .banner {
+    background-position: bottom;
+  }
+
+  .banner-content {
+    background-position: .75em 9em;
+    padding-top: 16em;
+  }
+}
+
+@media only screen and (min-width: 90em) {
+  .banner-content {
+    background-size: 5em;
+    background-position: .75em 8em;
+    padding-top: 14em;
   }
 
 }
