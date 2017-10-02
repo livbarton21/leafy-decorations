@@ -55,9 +55,10 @@ html {
   padding-top: 18em;
 
 }
+
 @media only screen and (min-width: 20em) {
 
-  .banner-content{
+  .banner-content {
     padding-top: 18.5em;
   }
 
